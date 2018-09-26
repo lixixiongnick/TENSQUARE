@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tenquare_base" />
+        <module name="tenquare_common" />
+        <module name="tensquare_base" />
+        <module name="tensquare_common" />
+        <module name="tensquare_recruit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="tenquare_base" target="1.8" />
+      <module name="tenquare_common" target="1.8" />
+      <module name="tenquare_parent" target="1.8" />
+      <module name="tensquare_base" target="1.8" />
+      <module name="tensquare_common" target="1.8" />
+      <module name="tensquare_parent" target="1.8" />
+      <module name="tensquare_recruit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
