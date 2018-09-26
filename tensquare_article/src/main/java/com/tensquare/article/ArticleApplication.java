@@ -12,7 +12,9 @@ public class ArticleApplication {
 
 	@Bean
 	public IdWorker idWorkker(){
+
 		return new IdWorker(1, 1);
+		
 	}
 	
 }
